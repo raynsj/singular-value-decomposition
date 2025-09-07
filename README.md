@@ -2,6 +2,8 @@
 
 This project demonstrates a high-precision Singular Value Decomposition (SVD) calculation implemented in C++ using the Boost Multiprecision library. It can be run as a standalone command-line tool or as a high-performance backend for a Python script.
 
+C++ code based on Arthur V. Ratz's 'Singular Values Decomposition (SVD) in C++11 by an Example' https://www.codeproject.com/Articles/1268576/Singular-Values-Decomposition-SVD-in-Cplusplus11-b
+
 ## Prerequisites
 
 - A C++ compiler (e.g., `g++`)
